@@ -1,0 +1,65 @@
+Experience
+English Content Writer Intern - 02/2022 –Present
+Chawtin, Tanger, Morocco
+•	Writing articles
+•	search engine optimization.
+
+Java/Web Development Intern - 01/2021 – 03/2021
+Simplio Lda, Porto, Portugal
+•	Added new features and functionalaties.
+•	Technologies used: Java, Play framework, Html, Css, Js, PostgreSQL.
+Bio-Inspired Artificial Intelligence End of Studies Intern - 02/2020 – 08/2020
+Innovative Technologies Laboratory, Amien, France
+•	Developed bio-inspired neural network for image processing and conversion of phase information into spikes.
+•	Technologies used: Python 3 and Google Colab.
+
+Machine Learning Summer Intern- 07/2019 – 09/2019
+FSTS Settat, Morocco
+•	Developed handwriting recognition.
+•	Technologies used: Python 3, OpenCV, Sklearn, Pandas, Numpy, Keras.
+
+Web Development Summer Intern- 07/2018 – 09/2018
+ALU, MARRAKECH, Morocco
+•	Developed a web site.
+•	Technologies used: HTML, CSS, JavaScript, bootstrap, JQuery.
+
+Education
+
+Computer Science | Engineering- 09/2017 – 07/2020
+Faculty of Science and Technology, Settat, Morocco
+
+Mathematics and Computer Science | Two-year university degree - 09/2014 – 06/2017
+Faculty of Science Samlalia, Marrakech, Morocco
+ 
+Mathematical Sciences | High School Diploma- 06/2014
+Ben Abad High school, Marrakech, Morocco
+
+Languages
+English – B2 French – B2 Spanish – A1 Arabic – Native
+
+Programming languages
+•	Java
+•	Python
+•	C/C++	•	JavaScript
+•	Bash (Unix shell)
+
+web development
+•	HTML5
+•	CSS3
+•	Bootstrap
+•	Vus.JS	•	Node.js (Express)
+•	Rest API :CRUD ,socket
+•	JEE
+Others skills
+•	UML
+•	Git
+•	Agile methodology	•	Design Pattern
+•	Database design, SQL
+•	Merise
+
+Hobbies
+
+Strengths
+•	Flexible/Adaptable
+•	Friendly	•	Hard-working
+•	Complex problem solver

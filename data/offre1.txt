@@ -1,0 +1,11 @@
+Job Offer: AI Engineer – Visual Recognition Systems (M/F)
+Location: Casablanca or hybrid remote
+Company: DeepVision Tech – A startup specialized in computer vision for healthcare and education
+Contract: Full-time (Permanent)
+Experience Level: Junior to Intermediate (0–3 years)
+ Job Responsibilities:
+•	Design, develop, and train deep learning models for handwriting recognition (OCR).
+•	Improve our multilingual handwriting analysis algorithms using state-of-the-art techniques.
+•	Collaborate with international R&D partners in the field of bio-inspired AI.
+•	Build prototypes and deploy robust solutions using Python, Keras, TensorFlow, or PyTorch.
+•	Stay up-to-date with the latest developments in computer vision and neural network architectures.
