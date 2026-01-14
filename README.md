@@ -1,6 +1,3 @@
-Here is the full, ready-to-use `README.md`. You can copy the code block below directly into your file.
-
-```markdown
 # 📄 AI Agent Resume Matcher
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -32,8 +29,6 @@ graph LR;
     E -->|DeepSeek-R1 Model| D;
     D -->|Structured Response| B;
     B -->|Displays Analysis| A;
-
-```
 
 1. **Ingestion:** The app reads the PDF and the job description text.
 2. **Orchestration:** `LiteLLM` acts as a bridge to format the prompt correctly for the local model.
