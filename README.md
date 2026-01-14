@@ -29,9 +29,11 @@ graph LR;
     E -->|DeepSeek-R1 Model| D;
     D -->|Structured Response| B;
     B -->|Displays Analysis| A;
+``` 
 
 1. **Ingestion:** The app reads the PDF and the job description text.
 2. **Orchestration:** `LiteLLM` acts as a bridge to format the prompt correctly for the local model.
+
 3. **Inference:** The **DeepSeek-R1** model processes the inputs to identify gaps in skills and experience.
 4. **Output:** The Streamlit UI renders the results in a clean dashboard.
 
